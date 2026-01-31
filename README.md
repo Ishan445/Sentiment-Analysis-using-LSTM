@@ -33,7 +33,7 @@ Unlike standard tutorials that use pre-indexed datasets, this project reconstruc
     The serialized Python object containing the word-to-index dictionary. This ensures that the web app processes text exactly the same way the model was trained.
 
 * **`requirements.txt`**
-    A list of necessary Python libraries (TensorFlow, Pandas, Streamlit, etc.) required to run the project.
+    A list of necessary Python libraries required to run the project.
 
 ---
 
